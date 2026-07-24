@@ -1,0 +1,9 @@
+{
+  "name": "QuietGame",
+  "short_name": "QuietGame",
+  "start_url": "./logic-games.html",
+  "display": "standalone",
+  "background_color": "#2b1d14",
+  "theme_color": "#2b1d14",
+  "orientation": "any"
+}
